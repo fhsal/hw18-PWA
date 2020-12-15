@@ -6,7 +6,7 @@ This assignment involved building routes and models to supplement front-end code
 
 The front-end code had already been built and a directory structure for the html, js for that was provided. Functionally, the provided code enabled entry, saving and update of workouts plus the ability to visualize previously entered workouts via a dashboard. But the application lacked middleware integration with a datbase, and the focus of the assignment was to define the schema, build the Express model and routes, leveraging Mongoose in conjunction with a Mongo database deployed on Heroku.
 
-The application is fully functional and deployed on Heroku and this link: https://fitness-trakker.herokuapp.com. Here is a screen shot of the working application's dashboard :
+The application is fully functional and deployed on Heroku and this link: https://budget-trakker.herokuapp.com/. Here is a screen shot of the working application's dashboard :
 
 ![img](https://github.com/fhsal/hw18-PWA/blob/main/budget-tracker-screenshot.jpg)
 
