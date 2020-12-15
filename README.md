@@ -8,7 +8,7 @@ The front-end code had already been built and a directory structure for the html
 
 The application is fully functional and deployed on Heroku and this link: https://fitness-trakker.herokuapp.com. Here is a screen shot of the working application's dashboard :
 
-![img](https://github.com/fhsal/hw17-fitnessTracker/blob/main/fitness-tracker-dashboard-screenshot.jpg)
+![img](https://github.com/fhsal/hw18-PWA/blob/main/budget-tracker-screenshot.jpg)
 
 Several components are used in the application, built around the MVC structure provided where front-end code for html, js and data are stored within the 'public' folder structure. A seed file was also provided. I added several directories and files to the app to drive the app, define schema, set routes and models, they are:
 
